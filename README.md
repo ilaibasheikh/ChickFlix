@@ -1,5 +1,5 @@
 # ChickFlix
-A movie streaming platform inspired by services like Netflix, using HTML and CSS.
+A movie streaming clone inspired by services like Netflix, using HTML and CSS.
 
 **Features:**
 - Landing page of streaming site
